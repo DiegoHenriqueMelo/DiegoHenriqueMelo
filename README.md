@@ -9,7 +9,9 @@
 🔭 **Trabalho atual:** Uni-Facef  
 🌱 **Aprendendo:** Desenvolvimento Back-End com Node.js e TypeScript  
 💡 **Foco:** Criação de APIs robustas e escaláveis  
-🎯 **Objetivo:** Tornar-me um desenvolvedor Back-end 
+🎯 **Objetivo:** Tornar-me um desenvolvedor Back-end especialista  
+📚 **Cursando:** Engenharia de Software - Uni-FACEF  
+☕ **Combustível:** TypeScript com café 
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -33,6 +35,39 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegohenriquemelo&repo=seu-projeto&theme=tokyonight" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegohenriquemelo&repo=outro-projeto&theme=tokyonight" />
+  </a>
+</div>
+
+## 📚 Atualmente Estudando
+
+- 🔥 **Node.js** - Desenvolvimento de APIs REST
+- 🛡️ **TypeScript** - Tipagem estática para JavaScript
+- 🗄️ **Prisma ORM** - Modelagem e consultas de banco de dados
+- 🐘 **PostgreSQL** - Banco de dados relacional
+- 🔐 **JWT & Autenticação** - Segurança em aplicações
+- 🧪 **Testes Unitários** - Jest e Supertest
+
+## 💼 Experiência & Habilidades
+
+```typescript
+const diego = {
+  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  backend: ['Node.js', 'Express.js', 'Prisma'],
+  database: ['PostgreSQL'],
+  tools: ['Git', 'GitHub', 'Figma', 'Power BI', 'Trello'],
+  currentFocus: 'Backend Development',
+  funFact: 'Programo melhor com café ☕'
+};
+```
 
 ## 📊 Estatísticas do GitHub
 
@@ -70,6 +105,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://seu-portfolio.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero)
 
 </div>
 
