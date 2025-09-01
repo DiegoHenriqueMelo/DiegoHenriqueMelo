@@ -63,7 +63,7 @@
 const diego = {
   code: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
   backend: ['Node.js', 'Express.js', 'Prisma'],
-  database: ['PostgreSQL'],
+  database: ['PostgreSQL', 'Oracle'],
   tools: ['Git', 'GitHub', 'Figma', 'Power BI', 'Trello'],
   currentFocus: 'Backend Development',
   funFact: 'Programo melhor com café ☕'
