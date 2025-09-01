@@ -39,13 +39,14 @@
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegohenriquemelo&repo=seu-projeto&theme=tokyonight" />
+  <a href="https://github.com/DiegoHenriqueMelo/API_WEB_PCD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoHenriqueMelo&repo=API_WEB_PCD&theme=tokyonight" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegohenriquemelo&repo=outro-projeto&theme=tokyonight" />
+  <a href="https://github.com/DiegoHenriqueMelo/ReduzAi_back-end">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoHenriqueMelo&repo=ReduzAi_back-end&theme=tokyonight" />
   </a>
 </div>
+
 
 ## 📚 Atualmente Estudando
 
