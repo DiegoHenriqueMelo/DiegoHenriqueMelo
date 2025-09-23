@@ -25,9 +25,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful-009639?style=for-the-badge&logo=restful&logoColor=white)
 
 ### Database
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -44,6 +46,9 @@
   </a>
   <a href="https://github.com/DiegoHenriqueMelo/ReduzAi_back-end">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoHenriqueMelo&repo=ReduzAi_back-end&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DiegoHenriqueMelo/hackathon-2025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoHenriqueMelo&repo=hackathon-2025&theme=tokyonight" />
   </a>
 </div>
 
