@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diego%20Melo&fontSize=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=Desenvolvedor+Back-End;Estudante+de+Engenharia+de+Software;.NET+%7C+Azure+%7C+TypeScript;Transformando+café+em+código!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=Desenvolvedor+Back-End;Estudante+de+Engenharia+de+Software;.NET+%7C+Node.js+%7C+TypeScript+%7C+Azure;Transformando+café+em+código!" alt="Typing SVG" />
 </div>
 
 ## 💫 Sobre Mim
 
-🔭 **Trabalho atual:** Uni-Facef  
-🌱 **Aprendendo:** Desenvolvimento Back-End com Node.js e TypeScript  
+🔭 **Trabalho atual:** Estagiário de T.I  
+🌱 **Aprendendo:** Desenvolvimento Back-End  
 💡 **Foco:** Criação de APIs robustas e escaláveis  
 🎯 **Objetivo:** Tornar-me um desenvolvedor Back-end especialista  
 📚 **Cursando:** Engenharia de Software - Uni-FACEF  
@@ -92,10 +92,6 @@
 
 - 🔥 **.NET** - Desenvolvimento de aplicações robustas
 - ☁️ **Azure** - Cloud Computing e serviços em nuvem
-- 🗄️ **Prisma ORM** - Modelagem e consultas de banco de dados
-- 🐘 **PostgreSQL** - Banco de dados relacional
-- 🔐 **JWT & Autenticação** - Segurança em aplicações
-- 🧪 **Testes Unitários** - Jest e Supertest
 
 ## 💼 Experiência & Habilidades
 
