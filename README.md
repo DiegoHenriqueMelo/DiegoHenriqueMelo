@@ -81,8 +81,8 @@
 <h3 align="center">Perigot API</h3>
 <div align="center">
 <a href="https://github.com/DiegoHenriqueMelo/perigot_API" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"></a>
-<p><strong>.NET • Azure • MySQL</strong></p>
-<p>Backend RESTful moderno com arquitetura escalável e integração cloud</p>
+<p><strong>Express.js • Redis • MySQL</strong></p>
+<p>Backend RESTful moderno com arquitetura escalável</p>
 </div>
 </td>
 </tr>
