@@ -51,38 +51,22 @@
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">APL_PCD_API</h3>
-<div align="center">
-<a href="https://github.com/DiegoHenriqueMelo/APL_PCD_API" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"></a>
-<p><strong>TypeScript • Node.js • PostgreSQL</strong></p>
-<p>API para gerenciamento de dados de Pessoas com Deficiência com autenticação JWT e Prisma ORM</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">APL_PCD_PWO</h3>
-<div align="center">
-<a href="https://github.com/DiegoHenriqueMelo/APL_PCD_PWO" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"></a>
-<p><strong>React • TypeScript • PWA</strong></p>
-<p>Progressive Web App para acessibilidade e gestão de PCD</p>
-</div>
-</td>
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">Perigot APP</h3>
+<h3 align="center">Perigot ERP</h3>
 <div align="center">
-<a href="https://github.com/DiegoHenriqueMelo/perigot_ERP" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"></a>
+<a href="https://github.com/DiegoHenriqueMelo/system_perigot_ERP" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"></a>
 <p><strong>React • Next.js • TypeScript</strong></p>
 <p>Sistema ERP completo com interface moderna e responsiva</p>
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Perigot API</h3>
+<h3 align="center">Agenda_Imperial</h3>
 <div align="center">
-<a href="https://github.com/DiegoHenriqueMelo/perigot_API" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"></a>
-<p><strong>Express.js • Redis • MySQL</strong></p>
-<p>Backend RESTful moderno com arquitetura escalável</p>
+<a href="https://github.com/DiegoHenriqueMelo/Agenda_imperial" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"></a>
+<p><strong>Express.js • Redis • Next</strong></p>
+<p>Sistema de gestão para pet shop</p>
 </div>
 </td>
 </tr>
@@ -98,10 +82,10 @@
 ```typescript
 const diego = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "C#"],
-  frontend: ["React.js", "Next.js"],
+  frontend: ["React.js", "Next.js", "Flutter"],
   backend: ["Node.js", "Express.js", ".NET", "Prisma"],
   cloud: ["Azure"],
-  database: ["PostgreSQL", "MySQL", "Oracle", "Redis"],
+  database: ["PostgreSQL", "MySQL", "Oracle", "Redis", "Mongo"],
   tools: ["Git", "GitHub", "Figma", "Power BI", "Trello"],
   currentFocus: "Backend Development & Cloud",
   funFact: "Programo melhor com café ☕",
